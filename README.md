@@ -1,5 +1,4 @@
-### 🌱 SpecialList ? GeneralList? Anything! 🌱
-
+### 🌱 SpecialList ? GeneralList? Anything! 🌱 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkkt219a&count_bg=%231498F0&title_bg=%23C9C9C9&icon=&icon_color=%23E7E7E7&title=today+is&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **kkt219a/kkt219a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkt219a&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kkt219a&theme=tokyonight&show_icons=true&hide=prs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
