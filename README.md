@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🌱 SpecialList ? GeneralList? Anything! 🌱
 
 <!--
 **kkt219a/kkt219a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
